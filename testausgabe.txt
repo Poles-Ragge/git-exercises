@@ -1,0 +1,5 @@
+commit 33961eaaa7c2708a9dcd743bbdb5f381b7cf12d2
+Author: Luka Vucer <vucerluka@gmail.com>
+Date:   Fri Mar 6 08:59:11 2026 +0100
+
+    bar.txt
