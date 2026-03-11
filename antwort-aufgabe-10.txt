@@ -1,0 +1,2 @@
+bei "mv" wird nur die datei im arbeirsverzeichnis geaendert. bei "git mv" wird es auch im repo geaendert.
+Bevorzugt soll die git variante sein, weil es sofort überall ändetr.
