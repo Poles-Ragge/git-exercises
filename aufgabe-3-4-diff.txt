@@ -1,0 +1,1 @@
+Der Unterschied besteht darin, dass foo.txt und bar.txt jetzt gestaged sind und bei der linken spalte ein A haben.

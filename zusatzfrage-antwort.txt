@@ -1,0 +1,2 @@
+In Linux bzw. Unix systeme werden sind dateien die mit . beginnen versteckt. 
+Versteckte Dateien sind meist f¨r das System wichtig, aber nicht für den feed des Users. Deshalb sind dateien wie .gitignore "versteckt".
