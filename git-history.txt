@@ -1,0 +1,466 @@
+    1  cd IPT5.1_Stundenplaner-Projekt_Luka.V_Khalil.H_Eldi.K
+    2  git remote add origin git@github.com:Poles-Ragge/IPT5.1_Stundenplaner-Projekt_Luka.V_Khalil.H_Eldi.K.git
+    3  git remote -v
+    4  cd /m106
+    5  cd poles/m106
+    6  cd poles/M106
+    7  cd M106
+    8  git remot add origin git@github.com:Poles-Ragge/M106.git
+    9  git remote add origin git@github.com:Poles-Ragge/M106.git
+   10  git remote add origin git@github.com:Poles-Ragge/M106.git
+   11  git remote add origin https://github.com/Poles-Ragge/M106.git
+   12  git remote add origin https://github.com/Poles-Ragge/M106
+   13  add origin
+   14  git remote add origin https://github.com/Poles-Ragge/M106.git
+   15  cd M106
+   16  git remote add origin https://github.com/Poles-Ragge/M106.git
+   17  cd m106
+   18  cd poles
+   19  dg
+   20  cd M106
+   21  git init -b main
+   22  git remote add origin https://github.com/Poles-Ragge/M106.git
+   23  git remote -v
+   24  cd IPT 4.1
+   25  cd IPT_4.1
+   26  psd
+   27  /
+   28  echo $PATH
+   29  /desktop
+   30  cd Desktop
+   31  /IPT_4.1
+   32  IPT 4.1
+   33  cd IPT_4.1
+   34  cd IPT 4.1
+   35  cd IPT_4.1
+   36  cd IPT4.1Projekt
+   37  git remote add origin https://github.com/Poles-Ragge/IPT4.1Projekt.git
+   38  git branch -M main
+   39  git push -u origin main
+   40  git remote add origin https://github.com/Poles-Ragge/IPT4.1Projekt.git
+   41  git remote add origin git@github.com:Poles-Ragge/IPT4.1Projekt.git
+   42  git remote add origin https://github.com/Poles-Ragge/IPT4.1Projekt.git
+   43  git remote add origin https://github.com/Poles-Ragge/IPT4.1Projekt.git
+   44  git init
+   45  https://github.com/Poles-Ragge/IPT4.1Projekt.git
+   46  git remote add origin https://github.com/Poles-Ragge/IPT4.1Projekt.git
+   47  git branch -M main
+   48  git push -u origin main
+   49  git remote add origin https://github.com/Poles-Ragge/IPT4.1Projekt.git
+   50  cd IPT4.1Projekt
+   51  cd IPT4.1Projekt
+   52  [200~git remote add origin https://github.com/Poles-Ragge/IPT4.1Projekt.git
+   53  git branch -M main
+   54  git push -u origin maingit remote add origin https://github.com/Poles-Ragge/IPT4.1Projekt.git
+   55  git remote add origin https://github.com/Poles-Ragge/IPT4.1Projekt.git
+   56  ls
+   57  git init
+   58  git remote add origin https://github.com/Poles-Ragge/IPT4.1Projekt.git
+   59  git remote -v
+   60  git push origin main
+   61  cd m106projekt
+   62  cd poles
+   63  cd M106Projekt
+   64  git remote add origin https://github.com/Poles-Ragge/M106Projekt.git
+   65  git remote add origin https://github.com/Poles-Ragge/M106Projekt.git
+   66  git remote add origin git@github.com:Poles-Ragge/M106Projekt.git
+   67  git branch -M main
+   68  git init
+   69  https://github.com/Poles-Ragge/M106Projekt.git
+   70  curl http://localhost:3000
+   71  cd IPTtest
+   72  cd IPTtesting
+   73  git remote add origin https://github.com/Poles-Ragge/IPTtesting.git
+   74  git branch -M main
+   75  git push -u origin main
+   76  git remote add origin 
+   77  git remote add origin https://github.com/Poles-Ragge/IPTtesting.git
+   78  git -b main
+   79  git remote add origin https://github.com/Poles-Ragge/IPTtesting.git
+   80  git branch -M main
+   81  git push -u origin main
+   82  git remote add origin https://github.com/Poles-Ragge/IPTtesting.git
+   83  [200~echo "# IPTtesting" >> README.md
+   84  git init
+   85  git add README.md
+   86  git commit -m "first commit"
+   87  git branch -M main
+   88  git remote add origin https://github.com/Poles-Ragge/IPTtesting.git
+   89  git push -u origin main
+   90  pwd
+   91  cd IPTtesting
+   92  git remote add origin git@github.com:Poles-Ragge/IPTtesting.git
+   93  git branch -M main
+   94  git push -u origin main
+   95  gb
+   96  cd /poles
+   97  cd ..
+   98  cd poles
+   99  cd desktop
+  100  cd sqlitetest
+  101  git init
+  102  git remote add origin git@github.com:Poles-Ragge/sqlitetest.git
+  103  git branch -M main
+  104  git push -u origin main
+  105  git branch -M main
+  106  git push -u origin main
+  107  git push -u origin main
+  108  cd desktip
+  109  cd desktop
+  110  echo "# sqlitetest" >> README.md
+  111  git init
+  112  git add README.md
+  113  git commit -m "first commit"
+  114  git branch -M main
+  115  git remote add origin https://github.com/Poles-Ragge/sqlitetest.git
+  116  git push -u origin main
+  117  cd desktop
+  118  cd sqlitetest
+  119  git init
+  120  git remote add origin https://github.org/Poles-Ragge/sqlitetest.git
+  121  git branch -M main
+  122  git push -u origin main
+  123  cd desktop
+  124  cd sqlitetest
+  125  git initecho "# sqlitetest" >> README.md
+  126  git init
+  127  git add README.md
+  128  git commit -m "first commit"
+  129  git branch -M main
+  130  git rmeote add origin https://github.com/Poles-Ragge/sqlitetest.git
+  131  git push -u origin main
+  132  git remote add origin https://github.com/Poles-Ragge/sqlitetest.gi
+  133  git push -u origin main
+  134  git remote add origin git@github.com:Poles-Ragge/sqlitetest.git
+  135  git push -u origin main
+  136  cd desktop
+  137  cd IPT6.1-Projekt
+  138  [200~echo "# IPT_6.1-Projekt" >> README.md
+  139  git init
+  140  git add README.md
+  141  git commit -m "first commit"
+  142  git branch -M main
+  143  git remote add origin gitgithub.com:Poles-Ragge/IPT_6.1-Projekt.git
+  144  git push -u origin main
+  145  git remote add origin https://github.com/Poles-Ragge/IPT_6.1-Projekt.git
+  146  cd desktop/IPT6.1-Projekt
+  147  echo "# IPT_6.1-Projekt" >> README.md
+  148  git init
+  149  git add README.md
+  150  git commit -m "first commit"
+  151  git branch -M main
+  152  git remote origin https://github.com/Poles-Ragge/IPT_6.1-Projekt.git
+  153  git push -u origin main
+  154  git remote add origin https://github.com/Poles-Ragge/IPT_6.1-Projekt.git
+  155  git psh -u origin main
+  156  git push -u origin main
+  157  cd desktop
+  158  cd IPT7.1--Startprojekt
+  159  echo "# IPT7.1--Startprojekt" >> README.md
+  160  git init
+  161  git add README.md
+  162  git commit -m "first commit"
+  163  git branch -M main
+  164  git remote add origin https://github.com/Poles-Ragge/IPT7.1--Startprojekt.git
+  165  git pish -u origin main
+  166  git push -u origin main
+  167  git config --global
+  168  git config --global .name "Luka Vucer"
+  169  git config --global user.name "Luka Vucer"
+  170  git config --global user.email "luka_vucer@sluz.ch
+  171  k
+  172  git
+  173  "
+  174  git config --global user.email "luka_vucer@sluz.ch"
+  175  git version
+  176  git config --global user.name "Luka Vucer"
+  177  git config --global user.email "luka_vucer@sluz.ch"
+  178  git config --global core.editor "editor"
+  179  git config --global init.defaultbranch "master"
+  180  git config --list
+  181  git config user.email
+  182  git config user.name
+  183  git config user.email
+  184  git config core.editor
+  185  git config init.defaultbranch
+  186  git version
+  187  git config user-mail
+  188  git config user.mail
+  189  git config user.email
+  190  git config --globar user.email
+  191  git config user.email
+  192  git conig user.name
+  193  git config user.name
+  194  ssh-keygen -t ed25519 -c luka_vucer@sluz.ch
+  195  cat ~/.ssh/id_ed25519.pub
+  196  git clone git@github.com:m426.2026/hello-git.git
+  197  cd poles
+  198  cd user
+  199  cd user/poles
+  200  git short
+  201  git --short
+  202  mkdir project
+  203  cd project
+  204  git init
+  205  cd /poles
+  206  cd poles
+  207  cd excersizes
+  208  cd git-exercises
+  209  mkdir git-exercises
+  210  cd git-exercises
+  211  git init
+  212  cat foo.txt
+  213  echo foo.txt
+  214  echo bar.txt
+  215  echo qux.txt
+  216  echo "foo" foo.txt
+  217  echo "bar" bar.txt
+  218  echo "qux" qux.txt
+  219  cat bar.txt
+  220  cat foo.txt
+  221  touch foo.txt
+  222  git status --short
+  223  echo "foo" foo.txt
+  224  cat bar.txt
+  225  cat "bar" bar.txt
+  226  echo "bar" bar.txt
+  227  touch "bar" bar.txt
+  228  touch "qux" qux.txt
+  229  nano foo.txt
+  230  nano foo.txt
+  231  --short
+  232  git --short
+  233  git -short
+  234  git status --shorz
+  235  git status --short
+  236  clear
+  237  cd git-exercise
+  238  cd git-exercises
+  239  nano foo.txt
+  240  nano bar.txt
+  241  nano qux.txt
+  242  git status --short
+  243  git  add
+  244  git add *
+  245  git status --short
+  246  git commit *
+  247  -m
+  248  git commit -m *
+  249  git status --short
+  250  git commit *
+  251  git commit -m *
+  252  touch foobar.exe
+  253  cd git-exercises
+  254  touch foobar.exe
+  255  git status --short
+  256  git add foobar.exe
+  257  git commit bar.txt
+  258  git add -F bar.exe
+  259  git add bar.txt
+  260  git commit bar.exe
+  261  git commit bar.txt
+  262  git status --short
+  263  touch .gitignore *.class
+  264  touch .gitignore .exe
+  265  git status --short
+  266  git status --short
+  267  git add .gitignore
+  268  git status --short
+  269  touch foo.txt
+  270  nano foo.txt
+  271  touch qux.txt
+  272  nano qux.txt
+  273  git add foo.txt
+  274  aiff
+  275  git diff
+  276  git diff --cached
+  277  git status --short
+  278  git commit *
+  279  git status --short
+  280  nano foobar.txt
+  281  git config core.editor
+  282  git log
+  283  git log > testausgabe.txt
+  284  git config core.editor Notepad++
+  285  git config core.editor
+  286  git commit -m *
+  287  git add testausgabe.txt
+  288  git commit -m *
+  289  git status -^-short
+  290  git status --short
+  291  git status --short
+  292  opop
+  293  poopooopeeepee
+  294  huh
+  295  /help
+  296  /hack/peta/398/32/331/3
+  297  /hack/peter/234.093.192.230/
+  298  cd git-exercises
+  299  git rm bar.txt
+  300  git rm -f bar.txt
+  301  git rm -f foo.txt
+  302  git rm -f qux.txt
+  303  git rm -f testausgabe.txt
+  304  git rm -f foobar.exe
+  305  git rm -f gitignore
+  306  git rm -f .gitignore
+  307  git status --short
+  308  git add
+  309  git add *
+  310  git commit *
+  311  -m
+  312  git commit * -m
+  313  git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe' -multiInst -nosession
+  314  clear
+  315  l
+  316  stop
+  317  rm
+  318  ms
+  319  cd git-exercises
+  320  git config core.editor "'C:/Program Files/Notepad++/notepad++.exe' -multiInst -nosession"
+  321  git config core,editor
+  322  git config core.editor
+  323  git commit
+  324  touch foo.txt
+  325  nano foo.txt
+  326  touch bar.txt
+  327  nano bar.txt
+  328  nano bar.txt
+  329  touch qux.txt
+  330  nano qux.txt
+  331  git status --short
+  332  touch aufgabe-3.out
+  333  git status --short >> aufgabe-3.out
+  334  git add goo.txt bar.txt
+  335  git add foo.txt bar.txt
+  336  git status --short
+  337  touch aufgabe-4.out
+  338  git status --short >> aufgabe-4.out
+  339  touch aufgabe-3-4-diff.txt
+  340  nanp touch aufgabe-3-4-diff.txt
+  341  nano aufgabe-3-4-diff.txt
+  342  nano aufgabe-3-4-diff.txt
+  343  touch foobar.exe
+  344  nano foobar.exe
+  345  git status --short
+  346  touch .gitignore *.exe
+  347  git status --short
+  348  notepad++ .gitignore
+  349  nano .gitignore
+  350  git status --short
+  351  git add .gitignore
+  352  touch zusatzfrage-antwort.txt
+  353  nano zusatzfrage-antwort.txt
+  354  git digg
+  355  git diff
+  356  git diff
+  357  git diff --cached
+  358  git status --short
+  359  git commit
+  360  git status --short
+  361  git add *
+  362  git status --short
+  363  git commit Jetzt wird alles commited!
+  364  git commit -Jetzt wird alles commited!
+  365  Git commit -m Alles Commiten!
+  366  git commit -m "Jetzt wird alles commited!"
+  367  git status --short
+  368  git remote add origin https://github.com/Poles-Ragge/git-exercises.git
+  369  git push -u origin master
+  370  git branc
+  371  git branch
+  372  git push origin master
+  373  nano bar.txt
+  374  git status --short
+  375  git dd bar.txt
+  376  git add bar.txt
+  377  git status --short
+  378  git reset bar,txt
+  379  git reset bar.txt
+  380  git status --short
+  381  git checkout bar.txt
+  382  git status --short
+  383  git log
+  384  nano bar.txt
+  385  git add bar.txt
+  386  git reset --hard
+  387  toucb aufgabe-10.txt
+  388  rm bar.txt
+  389  git rm foo.txt
+  390  git status --short
+  391  git reset
+  392  git status --short
+  393  mv bar.txt barr.txt
+  394  git reset --hard
+  395  mc bar.txt barr.txt
+  396  git mv bar.txt
+  397  git mb bar.txt barr.txt
+  398  git mv bar.txt barr.txt
+  399  git status --short
+  400  mv qux.txt quxx.txt
+  401  git status --short
+  402  touch antwort-aufgabe-10.txt
+  403  nano antwort-aufgabe-10.txt
+  404  git log
+  405  git add
+  406  git add *
+  407  git commit 
+  408  git log -p --stat --pretty --graph 
+  409  git log --pretty
+  410  git log --stat
+  411  git log graph
+  412  git log --graph
+  413  aufgabe-11.txt
+  414  touch aufgabe-11.txt
+  415  git log -p 
+  416  git log --stat --pretty --graph >> aufgabe-11.txt
+  417  nano aufgabe-11.txt
+  418  git log --stat --graph >> aufgabe-11.txt
+  419  nano aufgabe-11.txt
+  420  git add *
+  421  git commit
+  422  it push originn vafter-ex11
+  423  git push origin after-ex11
+  424  git tag
+  425  git tag after-ex11
+  426  git tag
+  427  git push origin after-ex11
+  428  git log
+  429  git tag after-after.ex11
+  430  git tag
+  431  git push origin after-after-ex11
+  432  git push origin after-after-ex11
+  433  git add *
+  434  git branc
+  435  git branch
+  436  git checkout -b experiment
+  437  touch too.txt
+  438  nano too.txt
+  439  git add *
+  440  git commit *
+  441  git commit
+  442  git branch
+  443  git checkout master
+  444  git merge
+  445  git merge refactoring
+  446  git merge experiment
+  447  git log --short
+  448  git log
+  449  git config alias.lolog 'log -p --stat --pretty --graph'
+  450  git lolog
+  451  touch aufgabe-14.txt
+  452  nano aufgabe-14.txt
+  453  git lolol >> aufgabe-14.txt
+  454  git lolog >> aufgabe-14.txt
+  455  aufgabe.txt
+  456  aufgabe-14.txt
+  457  git status --short
+  458  git add *
+  459  git commit
+  460  git status -short
+  461  git status --short
+  462  git add qux.txt
+  463  git status --short
+  464  git commit -m "final final commit"
+  465  touch git-history.txt
+  466  history >> git-history.txt
