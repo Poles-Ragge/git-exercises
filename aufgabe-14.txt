@@ -1,0 +1,386 @@
+-- Alias: lolog --
+
+
+
+* commit 1f109057d0f315b8f676ce619d9a5980aacdbd9c
+| Author: Luka Vucer <vucerluka@gmail.com>
+| Date:   Wed Mar 11 23:15:19 2026 +0100
+| 
+|     branch expiriment
+| ---
+|  too.txt | 2 ++
+|  1 file changed, 2 insertions(+)
+| 
+| diff --git a/too.txt b/too.txt
+| new file mode 100644
+| index 0000000..5fcf741
+| --- /dev/null
+| +++ b/too.txt
+| @@ -0,0 +1,2 @@
+| +too!!!
+| +
+| 
+* commit 52517b5c912beb456b890f75cd3e10d41d153a69
+| Author: Luka Vucer <vucerluka@gmail.com>
+| Date:   Wed Mar 11 23:09:56 2026 +0100
+| 
+|     Logs added
+| ---
+|  aufgabe-11.txt | 137 +++++++++++++++++++++++++++++++++++++++++++++++++++++++
+|  1 file changed, 137 insertions(+)
+| 
+| diff --git a/aufgabe-11.txt b/aufgabe-11.txt
+| new file mode 100644
+| index 0000000..ccf1ec2
+| --- /dev/null
+| +++ b/aufgabe-11.txt
+| @@ -0,0 +1,137 @@
+| +-- LOG 1 --
+| +
+| +* commit 576f48ffb09ab663fb645c0b52c75bd303fd3d5c
+| +| Author: Luka Vucer <vucerluka@gmail.com>
+| +| Date:   Wed Mar 11 23:04:53 2026 +0100
+| +| 
+| +|     Commiting all changes
+| +| 
+| +|  antwort-aufgabe-10.txt | 2 ++
+| +|  bar.txt => barr.txt    | 0
+| +|  quxx.txt               | 1 +
+| +|  3 files changed, 3 insertions(+)
+| +| 
+| +* commit dcd3de85ab866e976241dff1961cbdea0db4ed98
+| +| Author: Luka Vucer <vucerluka@gmail.com>
+| +| Date:   Wed Mar 11 22:51:20 2026 +0100
+| +| 
+| +|     Jetzt wird alles commited!
+| +| 
+| +|  aufgabe-3-4-diff.txt    | 1 +
+| +|  aufgabe-3.out           | 4 ++++
+| +|  aufgabe-4.out           | 5 +++++
+| +|  qux.txt                 | 1 +
+| +|  zusatzfrage-antwort.txt | 2 ++
+| +|  5 files changed, 13 insertions(+)
+| +| 
+| +* commit 615fbb5ed7fe3abaf929df08577a1941ed423277
+| +| Author: Luka Vucer <vucerluka@gmail.com>
+| +| Date:   Wed Mar 11 22:48:36 2026 +0100
+| +| 
+| +|     Added several filed und antwort zur zusatzfrage
+| +| 
+| +|  .gitignore | 1 +
+| +|  bar.txt    | 1 +
+| +|  foo.txt    | 1 +
+| +|  3 files changed, 3 insertions(+)
+| +| 
+| +* commit d64c034406b28d68ad531a2b1b79a96f99c2b323
+| +| Author: Luka Vucer <vucerluka@gmail.com>
+| +| Date:   Wed Mar 11 22:34:34 2026 +0100
+| +| 
+| +|     Deleting corrupted files
+| +| 
+| +|  foo.txt         | 1 -
+| +|  foobar.exe      | 0
+| +|  qux.txt         | 1 -
+| +|  testausgabe.txt | 5 -----
+| +|  4 files changed, 7 deletions(-)
+| +| 
+| +* commit caed9275492b5b9ccc5f54271618411c5bbf4f5a
+| +| Author: Luka Vucer <vucerluka@gmail.com>
+| +| Date:   Fri Mar 6 09:19:12 2026 +0100
+| +| 
+| +|     bar.txt
+| +| 
+| +|  foobar.exe      | 0
+| +|  testausgabe.txt | 5 +++++
+| +|  2 files changed, 5 insertions(+)
+| +| 
+| +* commit 33961eaaa7c2708a9dcd743bbdb5f381b7cf12d2
+| +  Author: Luka Vucer <vucerluka@gmail.com>
+| +  Date:   Fri Mar 6 08:59:11 2026 +0100
+| +  
+| +      bar.txt
+| +  
+| +   foo.txt | 1 +
+| +   qux.txt | 1 +
+| +   2 files changed, 2 insertions(+)
+| +
+| +-- LOG 2 --
+| +
+| +* commit 576f48ffb09ab663fb645c0b52c75bd303fd3d5c
+| +| Author: Luka Vucer <vucerluka@gmail.com>
+| +| Date:   Wed Mar 11 23:04:53 2026 +0100
+| +| 
+| +|     Commiting all changes
+| +| 
+| +|  antwort-aufgabe-10.txt | 2 ++
+| +|  bar.txt => barr.txt    | 0
+| +|  quxx.txt               | 1 +
+| +|  3 files changed, 3 insertions(+)
+| +| 
+| +* commit dcd3de85ab866e976241dff1961cbdea0db4ed98
+| +| Author: Luka Vucer <vucerluka@gmail.com>
+| +| Date:   Wed Mar 11 22:51:20 2026 +0100
+| +| 
+| +|     Jetzt wird alles commited!
+| +| 
+| +|  aufgabe-3-4-diff.txt    | 1 +
+| +|  aufgabe-3.out           | 4 ++++
+| +|  aufgabe-4.out           | 5 +++++
+| +|  qux.txt                 | 1 +
+| +|  zusatzfrage-antwort.txt | 2 ++
+| +|  5 files changed, 13 insertions(+)
+| +| 
+| +* commit 615fbb5ed7fe3abaf929df08577a1941ed423277
+| +| Author: Luka Vucer <vucerluka@gmail.com>
+| +| Date:   Wed Mar 11 22:48:36 2026 +0100
+| +| 
+| +|     Added several filed und antwort zur zusatzfrage
+| +| 
+| +|  .gitignore | 1 +
+| +|  bar.txt    | 1 +
+| +|  foo.txt    | 1 +
+| +|  3 files changed, 3 insertions(+)
+| +| 
+| +* commit d64c034406b28d68ad531a2b1b79a96f99c2b323
+| +| Author: Luka Vucer <vucerluka@gmail.com>
+| +| Date:   Wed Mar 11 22:34:34 2026 +0100
+| +| 
+| +|     Deleting corrupted files
+| +| 
+| +|  foo.txt         | 1 -
+| +|  foobar.exe      | 0
+| +|  qux.txt         | 1 -
+| +|  testausgabe.txt | 5 -----
+| +|  4 files changed, 7 deletions(-)
+| +| 
+| +* commit caed9275492b5b9ccc5f54271618411c5bbf4f5a
+| +| Author: Luka Vucer <vucerluka@gmail.com>
+| +| Date:   Fri Mar 6 09:19:12 2026 +0100
+| +| 
+| +|     bar.txt
+| +| 
+| +|  foobar.exe      | 0
+| +|  testausgabe.txt | 5 +++++
+| +|  2 files changed, 5 insertions(+)
+| +| 
+| +* commit 33961eaaa7c2708a9dcd743bbdb5f381b7cf12d2
+| +  Author: Luka Vucer <vucerluka@gmail.com>
+| +  Date:   Fri Mar 6 08:59:11 2026 +0100
+| +  
+| +      bar.txt
+| +  
+| +   foo.txt | 1 +
+| +   qux.txt | 1 +
+| +   2 files changed, 2 insertions(+)
+| 
+* commit 576f48ffb09ab663fb645c0b52c75bd303fd3d5c
+| Author: Luka Vucer <vucerluka@gmail.com>
+| Date:   Wed Mar 11 23:04:53 2026 +0100
+| 
+|     Commiting all changes
+| ---
+|  antwort-aufgabe-10.txt | 2 ++
+|  bar.txt => barr.txt    | 0
+|  quxx.txt               | 1 +
+|  3 files changed, 3 insertions(+)
+| 
+| diff --git a/antwort-aufgabe-10.txt b/antwort-aufgabe-10.txt
+| new file mode 100644
+| index 0000000..626cfdb
+| --- /dev/null
+| +++ b/antwort-aufgabe-10.txt
+| @@ -0,0 +1,2 @@
+| +bei "mv" wird nur die datei im arbeirsverzeichnis geaendert. bei "git mv" wird es auch im repo geaendert.
+| +Bevorzugt soll die git variante sein, weil es sofort überall ändetr.
+| diff --git a/bar.txt b/barr.txt
+| similarity index 100%
+| rename from bar.txt
+| rename to barr.txt
+| diff --git a/quxx.txt b/quxx.txt
+| new file mode 100644
+| index 0000000..100b0de
+| --- /dev/null
+| +++ b/quxx.txt
+| @@ -0,0 +1 @@
+| +qux
+| 
+* commit dcd3de85ab866e976241dff1961cbdea0db4ed98
+| Author: Luka Vucer <vucerluka@gmail.com>
+| Date:   Wed Mar 11 22:51:20 2026 +0100
+| 
+|     Jetzt wird alles commited!
+| ---
+|  aufgabe-3-4-diff.txt    | 1 +
+|  aufgabe-3.out           | 4 ++++
+|  aufgabe-4.out           | 5 +++++
+|  qux.txt                 | 1 +
+|  zusatzfrage-antwort.txt | 2 ++
+|  5 files changed, 13 insertions(+)
+| 
+| diff --git a/aufgabe-3-4-diff.txt b/aufgabe-3-4-diff.txt
+| new file mode 100644
+| index 0000000..dfc7632
+| --- /dev/null
+| +++ b/aufgabe-3-4-diff.txt
+| @@ -0,0 +1 @@
+| +Der Unterschied besteht darin, dass foo.txt und bar.txt jetzt gestaged sind und bei der linken spalte ein A haben.
+| diff --git a/aufgabe-3.out b/aufgabe-3.out
+| new file mode 100644
+| index 0000000..3070112
+| --- /dev/null
+| +++ b/aufgabe-3.out
+| @@ -0,0 +1,4 @@
+| +?? aufgabe-3.out
+| +?? bar.txt
+| +?? foo.txt
+| +?? qux.txt
+| diff --git a/aufgabe-4.out b/aufgabe-4.out
+| new file mode 100644
+| index 0000000..ad59fcd
+| --- /dev/null
+| +++ b/aufgabe-4.out
+| @@ -0,0 +1,5 @@
+| +A  bar.txt
+| +A  foo.txt
+| +?? aufgabe-3.out
+| +?? aufgabe-4.out
+| +?? qux.txt
+| diff --git a/qux.txt b/qux.txt
+| new file mode 100644
+| index 0000000..100b0de
+| --- /dev/null
+| +++ b/qux.txt
+| @@ -0,0 +1 @@
+| +qux
+| diff --git a/zusatzfrage-antwort.txt b/zusatzfrage-antwort.txt
+| new file mode 100644
+| index 0000000..74502ac
+| --- /dev/null
+| +++ b/zusatzfrage-antwort.txt
+| @@ -0,0 +1,2 @@
+| +In Linux bzw. Unix systeme werden sind dateien die mit . beginnen versteckt. 
+| +Versteckte Dateien sind meist f¨r das System wichtig, aber nicht für den feed des Users. Deshalb sind dateien wie .gitignore "versteckt".
+| 
+* commit 615fbb5ed7fe3abaf929df08577a1941ed423277
+| Author: Luka Vucer <vucerluka@gmail.com>
+| Date:   Wed Mar 11 22:48:36 2026 +0100
+| 
+|     Added several filed und antwort zur zusatzfrage
+| ---
+|  .gitignore | 1 +
+|  bar.txt    | 1 +
+|  foo.txt    | 1 +
+|  3 files changed, 3 insertions(+)
+| 
+| diff --git a/.gitignore b/.gitignore
+| new file mode 100644
+| index 0000000..b883f1f
+| --- /dev/null
+| +++ b/.gitignore
+| @@ -0,0 +1 @@
+| +*.exe
+| diff --git a/bar.txt b/bar.txt
+| new file mode 100644
+| index 0000000..5716ca5
+| --- /dev/null
+| +++ b/bar.txt
+| @@ -0,0 +1 @@
+| +bar
+| diff --git a/foo.txt b/foo.txt
+| new file mode 100644
+| index 0000000..257cc56
+| --- /dev/null
+| +++ b/foo.txt
+| @@ -0,0 +1 @@
+| +foo
+| 
+* commit d64c034406b28d68ad531a2b1b79a96f99c2b323
+| Author: Luka Vucer <vucerluka@gmail.com>
+| Date:   Wed Mar 11 22:34:34 2026 +0100
+| 
+|     Deleting corrupted files
+| ---
+|  foo.txt         | 1 -
+|  foobar.exe      | 0
+|  qux.txt         | 1 -
+|  testausgabe.txt | 5 -----
+|  4 files changed, 7 deletions(-)
+| 
+| diff --git a/foo.txt b/foo.txt
+| deleted file mode 100644
+| index 257cc56..0000000
+| --- a/foo.txt
+| +++ /dev/null
+| @@ -1 +0,0 @@
+| -foo
+| diff --git a/foobar.exe b/foobar.exe
+| deleted file mode 100644
+| index e69de29..0000000
+| diff --git a/qux.txt b/qux.txt
+| deleted file mode 100644
+| index 100b0de..0000000
+| --- a/qux.txt
+| +++ /dev/null
+| @@ -1 +0,0 @@
+| -qux
+| diff --git a/testausgabe.txt b/testausgabe.txt
+| deleted file mode 100644
+| index c92991f..0000000
+| --- a/testausgabe.txt
+| +++ /dev/null
+| @@ -1,5 +0,0 @@
+| -commit 33961eaaa7c2708a9dcd743bbdb5f381b7cf12d2
+| -Author: Luka Vucer <vucerluka@gmail.com>
+| -Date:   Fri Mar 6 08:59:11 2026 +0100
+| -
+| -    bar.txt
+| 
+* commit caed9275492b5b9ccc5f54271618411c5bbf4f5a
+| Author: Luka Vucer <vucerluka@gmail.com>
+| Date:   Fri Mar 6 09:19:12 2026 +0100
+| 
+|     bar.txt
+| ---
+|  foobar.exe      | 0
+|  testausgabe.txt | 5 +++++
+|  2 files changed, 5 insertions(+)
+| 
+| diff --git a/foobar.exe b/foobar.exe
+| new file mode 100644
+| index 0000000..e69de29
+| diff --git a/testausgabe.txt b/testausgabe.txt
+| new file mode 100644
+| index 0000000..c92991f
+| --- /dev/null
+| +++ b/testausgabe.txt
+| @@ -0,0 +1,5 @@
+| +commit 33961eaaa7c2708a9dcd743bbdb5f381b7cf12d2
+| +Author: Luka Vucer <vucerluka@gmail.com>
+| +Date:   Fri Mar 6 08:59:11 2026 +0100
+| +
+| +    bar.txt
+| 
+* commit 33961eaaa7c2708a9dcd743bbdb5f381b7cf12d2
+  Author: Luka Vucer <vucerluka@gmail.com>
+  Date:   Fri Mar 6 08:59:11 2026 +0100
+  
+      bar.txt
+  ---
+   foo.txt | 1 +
+   qux.txt | 1 +
+   2 files changed, 2 insertions(+)
+  
+  diff --git a/foo.txt b/foo.txt
+  new file mode 100644
+  index 0000000..257cc56
+  --- /dev/null
+  +++ b/foo.txt
+  @@ -0,0 +1 @@
+  +foo
+  diff --git a/qux.txt b/qux.txt
+  new file mode 100644
+  index 0000000..100b0de
+  --- /dev/null
+  +++ b/qux.txt
+  @@ -0,0 +1 @@
+  +qux
